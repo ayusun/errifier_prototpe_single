@@ -1,7 +1,7 @@
 errifier
 ========
 
-A error Notifying application that makes error discovery faster
+An error Notifying application that makes error discovery faster
 
 Why errifier
 ============
