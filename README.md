@@ -27,6 +27,16 @@ Dependency
 * libnotify
 * inotify
 
+Installation
+============
+
+First do remember to install QT, libnotify and inotify in the system, then run these command in order
+
+* qmake -o "Makefile" errifier.pro
+* make
+
+Double click errifier(application generated to run the appliation)
+
 Contact Me
 ==========
 
